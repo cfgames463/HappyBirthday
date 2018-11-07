@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: #ff00bf;
+    font-size: 250%;
+    
+}
+
+.container{
+    padding: 30px;
+    margin: 15% 15%;
+    height: 70%;
+    width: auto;
+    color: #ff00bf;
+    background-color: purple;
+}
